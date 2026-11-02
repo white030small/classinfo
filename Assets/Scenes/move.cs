@@ -6,6 +6,7 @@ public class move : MonoBehaviour
     public float moveInputX;
     public Rigidbody2D rb;
     public float speed = 0.5f;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
